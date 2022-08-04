@@ -33,6 +33,7 @@ def saveThePrisoner(n, m, s):
             if counter == m:
                 return j
             
+            
     """
     
     return  n if (m+s-1)%n==0 else (m+s-1)%n
