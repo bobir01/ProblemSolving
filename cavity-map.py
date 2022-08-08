@@ -57,4 +57,5 @@ if __name__ == '__main__':
     fptr.write('\n'.join(result))
     fptr.write('\n')
 
+    
     fptr.close()
